@@ -6,8 +6,8 @@
 ## GCD
 
 ## Swift
-<DT>[Swift 编程语言](https://www.cnswift.org/)
-<DT>[Swift - 伸缩优先级详解](http://www.hangge.com/blog/cache/detail_1753.html)
+[Swift 编程语言](https://www.cnswift.org/)
+[Swift - 伸缩优先级详解](http://www.hangge.com/blog/cache/detail_1753.html)
 <DT>[Swift - CAGradientLayer使用详解](http://www.hangge.com/blog/cache/detail_1772.html)
 <DT>[Swift - 获取应用名称、应用版本、设备型号、系统版本等信息](http://www.hangge.com/blog/cache/detail_1606.html)
 <DT>[SwiftForms](https://github.com/ortuman/SwiftForms)
