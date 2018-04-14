@@ -42,8 +42,8 @@
 ### 隐式标签表示 Emmet 可以省略某些标签名，例如，声明一个带类的div，只需输入.item，就会生成<div class="item"></div>。另外，Emmet 还会根据父标签进行判定，例如，在中输入ul>.item$*5
 
 -(+*)li：用于 ul 和 ol 中
--(+*)-(+*)-(+*)tr：用于 table、tbody、thead 和 tfoot 中
--(+*)-(+*)td：用于 tr 中
+-(+*)tr：用于 table、tbody、thead 和 tfoot 中
+-(+*)td：用于 tr 中
 -(+*)option：用于 select 和 optgroup 中
 
 ## 书写时不要有空格
