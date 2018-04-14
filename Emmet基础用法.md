@@ -39,7 +39,7 @@
 - a[href="www.baidu.com" title="It is a blog"]{猛击这里} 生成有可点击内容“猛击这里”的标签
 
 ###  隐式标签
->> 隐式标签表示 Emmet 可以省略某些标签名，例如，声明一个带类的div，只需输入.item，就会生成<div class="item"></div>。另外，Emmet 还会根据父标签进行判定，例如，在中输入ul>.item$*5
+隐式标签表示 Emmet 可以省略某些标签名，例如，声明一个带类的div，只需输入.item，就会生成<div class="item"></div>。另外，Emmet 还会根据父标签进行判定，例如，在中输入ul>.item$*5
 - li：用于 ul 和 ol 中
 - tr：用于 table、tbody、thead 和 tfoot 中
 - td：用于 tr 中
