@@ -1,9 +1,9 @@
 # Emmet常用快捷语法
 
 ##  HTML文档初始结构快捷语法
-### html:5 或者 ! 生成 HTML5 结构
-### html:xt 生成 HTML4 过渡型
-### html:4s 生成 HTML4 严格型
+> html:5 或者 ! 生成 HTML5 结构
+> html:xt 生成 HTML4 过渡型
+> html:4s 生成 HTML4 严格型
 
 ##  标签属性生成快捷语法（# 、.）
 ### ul#page 生成带id的标签
